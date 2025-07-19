@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chiragferwani@gmail.com**
 
-- 📄 Know about my experiences [Chirag-Resume.pdf](https://chiragferwani.vercel.app/Chirag-Resume.pdf)
+- 📄 Know about my experiences [Chirag-Resume.pdf](https://chiragferwani.vercel.app/chiragferwani-resume.pdf)
 
 - ⚡ Fun fact **Computer was born to solve problems, that never existed before**
 
