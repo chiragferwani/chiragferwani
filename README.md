@@ -56,15 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chiragf27&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragf27&theme=tokyonight" />
-</p>
-
----
-
 ### 📌 Featured Work
 
 * 🔗 [Portfolio Website](https://chiragferwani.vercel.app)
